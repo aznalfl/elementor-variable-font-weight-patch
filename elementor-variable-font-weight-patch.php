@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Elementor Variable Font Weight Patch
- * Description: Temporary compatibility patch that outputs missing Elementor global typography font-weight CSS custom properties for presets built on registered variable-weight fonts (e.g. Geist). Works around elementor/elementor#29496 and #36009. Remove once Elementor ships an upstream fix.
+ * Description: Temporary compatibility patch that outputs missing Elementor global typography font-weight CSS custom properties for presets built on registered variable-weight fonts. Works around elementor/elementor#29496 and #36009. Remove once Elementor ships an upstream fix.
  * Version: 1.0.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
