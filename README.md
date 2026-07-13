@@ -2,7 +2,7 @@
 
 A temporary WordPress compatibility patch that fixes missing font-weight
 CSS on Elementor Global Typography presets built on registered
-variable-weight fonts (e.g. [Geist](https://vercel.com/font)).
+variable-weight fonts.
 
 ## The problem
 
