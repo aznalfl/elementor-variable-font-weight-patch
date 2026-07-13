@@ -96,6 +96,16 @@ Once the linked Elementor issues are resolved in a released version, this
 plugin is no longer needed. Simply deactivate and delete it from the
 Plugins screen - there is nothing else to clean up.
 
+## Disclaimer
+
+This plugin relies on Elementor's internal Kit/typography data structures,
+which are not part of any public API and may change without notice. It is
+provided as-is, with no warranty of any kind - test it on a staging site
+before using it in production, and don't assume it will keep working
+across future Elementor updates without re-checking.
+
 ## License
 
-GPL-2.0-or-later
+GPL-2.0-or-later. As with any GPL-licensed software, it is distributed
+WITHOUT ANY WARRANTY, including merchantability or fitness for a
+particular purpose.
